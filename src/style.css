@@ -25,12 +25,14 @@ body{
   color: #ececec;
 }
 .contact_us{
-  color: #ececec;
-  
+  color: #ececec; 
 }
-
 .contact_us span{
   color: #A3A1A1;
+}
+.mail{
+  color: #d1d9ff;
+  text-decoration: none;
 }
 .header_bottom{
   background-color: #F5F5F5;
